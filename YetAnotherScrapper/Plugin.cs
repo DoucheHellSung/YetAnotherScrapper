@@ -16,7 +16,7 @@ namespace YetAnotherScrapper
         {
            
         }
-        //Change
+        
 
         private Guid _id = new Guid("0A60512E-D75E-44E4-83CB-8B4A6ED5AC37");
         public override Guid Id
